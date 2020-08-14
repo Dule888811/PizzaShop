@@ -2,8 +2,7 @@
                                                                             PizzaShop
                                           
                                           
-                                          This is e-commerce laravel application,
-                                          Every visitor to the site can make an order.
+                                          This is e-commerce laravel application, Every visitor to the site can make an order.
                                           The application has a shopping cart whose data is stored in the session.
                                           Each pizza in the menu has an add to cart option and each user has that option.
                                           In the left corner of the header, each user has a link that leads him to see what 
